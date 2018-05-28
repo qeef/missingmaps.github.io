@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-05-28T13:37:13-04:00</updated><id>/</id><title type="html">Missing Maps</title><entry xml:lang="en"><title type="html">4 weeks in Madagascar with OSM-Mada &amp;amp; PHF/PHM - Disaster Risk Reduction project</title><link href="/blog/2018/04/24/madagascar-field-mapping/" rel="alternate" type="text/html" title="4 weeks in Madagascar with OSM-Mada &amp; PHF/PHM - Disaster Risk Reduction project" /><published>2018-04-24T00:00:00-04:00</published><updated>2018-04-24T00:00:00-04:00</updated><id>/blog/2018/04/24/madagascar-field-mapping</id><content type="html" xml:base="/blog/2018/04/24/madagascar-field-mapping/">&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_atsinanana.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As part of a new natural Disaster Risk Reduction project launched in partnership with the French NGO Pompiers Humanitaires Français (PHF) and the local OpenStreetMap community, Missing Maps’ member CartONG implemented a 4-week mission in Madagascar in March 2018. The objectives: raising awareness on data sharing, collecting data in the field and producing maps!&lt;/p&gt;
+
+&lt;h2 id=&quot;long-standing-ties-with-madagascar&quot;&gt;Long-standing ties with Madagascar&lt;/h2&gt;
+
+&lt;p&gt;For several years, CartONG has developed and maintained friendly relations with Madagascar. Our Missing Maps coordinator, Violaine Doutreleau, a then-volunteer, had organized a training in the island back in July 2015 which helped launch and structure the Malagasy OpenStreetMap community. This first training was then followed by 2 other deployments in 2016 and 2017: the first one linked to the project of Madagascar Solidarity Atlas and the second one developed to provide webmapping support to CNLS.&lt;/p&gt;
+
+&lt;h2 id=&quot;launch-of-a-disaster-risk-reduction-project-with-phf&quot;&gt;Launch of a Disaster Risk Reduction Project with PHF&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_workgroup1.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In 2017, we started a new project in partnership with the NGO Pompiers Humanitaires Français (PHF) – French Humanitarian Firefighters, which has been operating in eastern Madagascar (Atsinanana region) since 2010. In particular, PHF initiated the creation of an emergency and civil protection centre in Vatomandry in 2013.&lt;/p&gt;
+
+&lt;p&gt;Malagasy volunteer firefighters currently work on prevention (tree cutting, etc.), awareness-raising (first aid exercises and trainings, etc.), and assistance and reconstruction in the district’s capital. They are regularly called to intervene on the whole district but have not had so far the capacity to deploy in rural areas, for lack of being able to plan their interventions outside of urban areas despite having the equipment to do so (SUV). The goal of this new project was thus to improve the firefighters’ ability to respond by providing them with maps which would allow them to define their intervention areas and to deploy more easily when needed.&lt;/p&gt;
+
+&lt;p&gt;To this end, we organized several Missing Maps mapathons between October 2017 and February 2018 in order to prepare for the OSM base map needed for the mission. As a result, a total of 60 000 buildings and 3000 kilometers of roads and pathways were either added or updated on OSM – all data were then validated by CartONG volunteers. We would like to take this opportunity to thank Airbus for providing us with the necessary satellite imagery for the mapathons.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-weeks-in-the-field&quot;&gt;4 weeks in the field&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_workgroup2.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This preparatory phase led to a mission in Madagascar organized from March 3rd to 27th 2018, thanks to the decisive support of the &lt;a href=&quot;http://cnes.fr/en&quot;&gt;CNES&lt;/a&gt; (the French Space Agency). After a preliminary phase in Antananarivo with the Malagasy OSM community – during which a data sharing workshop, similar to &lt;a href=&quot;http://www.cartong.org/activity/building-data-collaborative-support-sdgs-health-and-wash-malawi-and-drc&quot;&gt;the one organized in January 2018 in the DRC&lt;/a&gt;, was organized – the combined CartONG &amp;amp; OSM-Mg team then left for the Atsinanana region to collect data in the field for 3 weeks.&lt;/p&gt;
+
+&lt;p&gt;The mission was disrupted by the passage of the &lt;a href=&quot;http://twitter.com/assocCartONG/status/975740284284882944&quot;&gt;tropical storm Eliakim&lt;/a&gt; and the resulting lack of accessibility of most rural areas as bridges were damaged or destroyed. The team nonetheless managed to collect most of the data required for the proper implementation of the project. Maps are now being produced for PHF / PHM (their local partner). Additionally, we are pleased to have been able to raise awareness among local stakeholders such as the NGO Care International and the head of the topographic department of the Vatomandry district. Lastly, we managed to obtain local administrative information (such as administrative boundaries) which will be integrated into OSM.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-mission-offering-a-wealth-of-learning-opportunities&quot;&gt;A mission offering a wealth of learning opportunities&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180424_fieldwork.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This mission was a rich human and technical experience. It was also one of the first missions organized in full autonomy by CartONG, that is to say without the support of an international NGO in the field.&lt;/p&gt;
+
+&lt;p&gt;During this mission, we once again noted the considerable lack of data collection tools for NGOs and public authorities operating in the field and of their general ignorance regarding OpenStreetMap and existing open-source cartographic data. In order to remedy this situation, we uploaded the OSMAnd application on the smartphones of as many local actors as possible during the mission. We also extensively shared the toolbox &lt;a href=&quot;http://cartong.org/news/icts-and-small-aid-organisations-publication-study-and-toolbox&quot;&gt;produced in partnership with the Agence des Micro Projets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We now hope to launch the second phase of the project in order to go deeper in the use of the data produced by local actors, both for disaster risk reduction purposes and for the implementation of other development projects. We also intend to continue supporting and collaborating with the Malagasy OSM community in order to provide mapping and information management tools adapted to the needs of field workers.&lt;/p&gt;
+
+&lt;p&gt;Don’t hesitate to &lt;a href=&quot;http://cartong.org/fr/contact-us&quot;&gt;get in touch with CartONG&lt;/a&gt; if you know of any organization working in Madagascar which might be interested in maps &amp;amp; open data!&lt;/p&gt;</content><author><name>Martin Noblecourt</name></author><category term="blog" /><category term="field mapping" /><category term="project update" /><summary type="html">As part of a new natural Disaster Risk Reduction project launched in partnership with the French NGO Pompiers Humanitaires Français (PHF) and the local OpenStreetMap community, Missing Maps member CartONG implemented a 4-week mission in Madagascar in March 2018. The objectives: raising awareness on data sharing, collecting data in the field and producing maps!</summary></entry><entry xml:lang="en"><title type="html">Drones over Canaan, Haiti</title><link href="/blog/2018/04/09/canaan-drones/" rel="alternate" type="text/html" title="Drones over Canaan, Haiti" /><published>2018-04-09T00:00:00-04:00</published><updated>2018-04-09T00:00:00-04:00</updated><id>/blog/2018/04/09/canaan-drones</id><content type="html" xml:base="/blog/2018/04/09/canaan-drones/">&lt;h2 id=&quot;canaan-haiti&quot;&gt;Canaan, Haiti&lt;/h2&gt;
+
+&lt;p&gt;Eight years after the devastating earthquake in January 2010, the landscape in Haiti is still in flux and continuously changing. For organizations working in Haiti, recovery programs slowly transition to preparedness and disaster risk reduction. More importantly, for over 250,000 people north of Port-au-Prince a patch of land that was once a blank slate transitions into a future. The resourcefulness of this community has been &lt;a href=&quot;http://www.redcross.org/news/article/In-Canaan-Haiti-residents-guide-the-citys-development&quot;&gt;well documented&lt;/a&gt;. Since 2014, the American Red Cross has been supporting residents of this community through &lt;a href=&quot;http://www.redcross.org/news/article/Haiti-Canaan-residents-join-together-to-overcome-economic-challenges&quot;&gt;health, infrastructure, and livelihoods programs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YopoEuwLf2Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p class=&quot;caption&quot;&gt;Approach to Canaan&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Canaan lies in rolling foothills about 10km north of Port-au-Prince. The population has continuously grown since the earthquake and dense urban areas have developed in central parts. The farther areas are more sparsely populated although this is rapidly changing as can be seen in the amount of ongoing construction. Canaan has grown so rapidly that keeping a map of the area up to date is extremely difficult. Additionally, some communities have become so dense that the satellite imagery commonly used to create maps is not detailed enough to accurately interpret. To address these issues and benefit the communities and other organizations working there, the American Red Cross collected, processed, and made available high resolution, up-to-date, drone imagery for the entire 35 square kilometer area.&lt;/p&gt;
+
+&lt;h2 id=&quot;equipment&quot;&gt;Equipment&lt;/h2&gt;
+
+&lt;p&gt;To collect imagery of Canaan we utilized DJI’s Mavic Pro quadcopter. Flight planning was done with the DroneDeploy app. We could define an area of interest, set a flight altitude, and set desired overlap between images. Higher overlap means the images can be more accurately stitched together but will increase mission time and, later, the processing time as well due to the higher number of images that need to be processed.&lt;/p&gt;
+
+&lt;p&gt;DroneDeploy automatically calculates the number of flights passes over the area of interest and the distance between passes. The app also allows a mission to be resumed after switching out the Mavic’s battery for areas that cannot be completed during the approximately 25 minutes of flight time possible on a single battery.&lt;/p&gt;
+
+&lt;p&gt;Given the Mavic Pro’s size and sensor capabilities, it took a large number of flights with close together passes. In preparation, we packed 20 batteries and power converters that let us charge batteries in our vehicle while flying.&lt;/p&gt;
+
+&lt;p&gt;To improve accuracy of our orthomosaic, at each launch point, ground control points (GCPs) were used. GPS coordinates are taken at the center of the GCP and when the orthomosaic is created, it can be georectified by adjusting the latitude and longitude of the GCP in the image to match those of the collected coordinates.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180409_gcp-placed.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Ground control point placed near launch site, CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Ideally, for an area as large as Canaan we would be able to use a fixed wing drone. We’ve used a platform called the &lt;a href=&quot;http://www.tuffwing.com/&quot;&gt;Tuffwing UAV Mapper&lt;/a&gt;. It has a longer flight time and a camera sensor with a larger field of view allowing for more area to be covered by a single picture. Unfortunately, using the Tuffwing in Canaan was mostly not feasible due to factors like high winds and trouble finding large enough, clear landing areas. We were able to fly the Tuffwing to capture imagery in only one neighborhood.&lt;/p&gt;
+
+&lt;h2 id=&quot;flight-planning&quot;&gt;Flight Planning&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;The best laid plans of mice and men, go oft awry&lt;/em&gt; - Robert Burns, paraphrased&lt;/p&gt;
+
+&lt;p&gt;Failing to plan is planning to fail, so based on what we knew of the Canaan area and the capabilities of the drones we created flight plans and a schedule roughly based on a grid of 1km squares. It was easy to set up what appeared to be a flawless plan from 1,400 miles away; however, perhaps not surprisingly, our plan needed to be adjusted throughout our time in Haiti.&lt;/p&gt;
+
+&lt;p&gt;When using drones for humanitarian purposes, an important aspect of the process is community sensitization and buy-in. From other Red Cross work in Canaan there is a fantastic network of community focal points. These community members work with their neighbors and community leaders and facilitate effective communication and cooperation for Red Cross projects in the neighborhood. Red Cross staff worked with the focal points to explain ahead of time the goal of the drone flights and to address any concerns. More information about best practices when using drones in humanitarian contexts can be found on the &lt;a href=&quot;https://uavcode.org/&quot;&gt;UAViators website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In some neighborhoods, these conversations were completed faster than others. Because of this, our initial itinerary changed very quickly.&lt;/p&gt;
+
+&lt;p&gt;Once we had a better idea of the timeline for which we would be able to fly over certain communities, we worked out a more efficient plan for selecting flight locations. Using our initial grid as guidance, we used an ASTER DEM to identify centrally located high points in the landscape. Using these points, we calculated Voronoi Polygons to have a better idea of reachable areas from a given launch point. We would then edit these polygons to create more “reasonable” (totally subjective) areas for a given flight. We didn’t want too many very small areas, as travel time would ultimately take away from flying time. We preferred to send the drone a bit further rather than pack up, travel, and unpack to do a short flight. Ultimately we made judgement calls based on the topography. We created overlap with neighboring flight areas as well as areas between assigned days. The overlap would ensure coverage of a given location in case the direction of the flights varied slightly.&lt;/p&gt;
+
+&lt;p&gt;The polygons of the flight areas were converted to &lt;code class=&quot;highlighter-rouge&quot;&gt;.kml&lt;/code&gt; files and uploaded to the DroneDeploy website. Most flight altitudes were set to 160 meters with 70% side-lap and 80% front-lap. With no UAS regulation in Haiti at the time, almost no air traffic in the area, and very clear lines of sight, we were able to fly at this altitude consistently throughout our mission. After selecting the flight direction (which could be edited upon arrival at the flight location to adjust for wind), the flight plans could then be synced to the DroneDeploy iPad app, which connects to the Mavic Pro flight controller and is used to program the drone for its flight.&lt;/p&gt;
+
+&lt;h2 id=&quot;flying&quot;&gt;Flying&lt;/h2&gt;
+
+&lt;p&gt;The pre-identified launch points were converted to &lt;code class=&quot;highlighter-rouge&quot;&gt;.gpx&lt;/code&gt; waypoints and added to the &lt;a href=&quot;https://osmand.net/&quot;&gt;OsmAnd&lt;/a&gt; mobile app on our phones.  We could then use the app to navigate to our destinations via the previously traced OSM road network. In most neighborhoods we would travel with the community focal point, and use their knowledge to navigate more efficiently.&lt;/p&gt;
+
+&lt;p&gt;Once we were setting up at a launch point, the community focal point would work with us to explain to and demonstrate for onlooking community members, the work that we were doing with the drones.&lt;/p&gt;
+
+&lt;p&gt;In addition to flights, we used two Sony Action Cameras to capture street level imagery as we drove throughout Canaan. The imagery of the area can be viewed on &lt;a href=&quot;https://www.mapillary.com/app/?lat=18.652149722222248&amp;amp;lng=-72.29545138888886&amp;amp;z=17&amp;amp;pKey=qesHt-3rIoVgYZaYtguNsQ&amp;amp;focus=photo&quot;&gt;Mapillary&lt;/a&gt; and &lt;a href=&quot;http://openstreetcam.com/details/990741/207&quot;&gt;OpenStreetCam&lt;/a&gt;. Both forward facing and side facing images were captured.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180409_mapillary.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Camera collecting street level imagery for Mapillary and OpenStreetCam, CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;320&quot; src=&quot;https://embed-v1.mapillary.com/embed?version=1&amp;amp;filter=%5B%22all%22%5D&amp;amp;map_filter=%5B%22all%22%5D&amp;amp;map_style=mapbox_streets&amp;amp;image_key=qesHt-3rIoVgYZaYtguNsQ&amp;amp;x=0.5&amp;amp;y=0.5&amp;amp;client_id=MFpjMU5abGRUMmxoQjEzdUNUMFRjdzo3NmEwODNjYzdkNGQ5OWE5&amp;amp;style=split&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Over 6 days of flying (with excessive wind grounding us for 2 additional days), we launched and landed the Mavics enough times to collect 28,232 nadir (downward-facing) images. While driving between launch sites we collected 133,109 street level images.&lt;/p&gt;
+
+&lt;h2 id=&quot;processing&quot;&gt;Processing&lt;/h2&gt;
+
+&lt;p&gt;At the American Red Cross, we support the development and use of open source software. We are fans of the OpenDroneMap project. Due to the magnitude of images that were collected, we processed the images in 66 separate groups, each less 1000 images, making sure that there was significant overlap of these areas for continuity when later merging them. It took several attempts and and multiple methodologies to identify a process that resulted in a quality orthoimage to be shared. Things that could go wrong, did: hard drives filled up, uploads failed, GDAL installations were messed up, downloads failed, and more. OpenDroneMap has since been improved to better handle such large image sets, so it’ll be a lot easier next time!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180409_processing.png&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Collected imagery and the processing areas, CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Once the merged orthomosaic was complete, we adjusted the georeferencing of the mosaic using the ground control points that had been laid out at each launch site.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20180409_gcp-flight.png&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Ground control point flag and red marker showing corresponding collected GPS coordinates in an image from the DJI Mavic Pro, CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The orthomosaic has been added to and can be downloaded from &lt;a href=&quot;https://map.openaerialmap.org/#/-72.27829399999999,18.670043999999997,10/user/59ecfc8c31eff4000c3804dd/5ac7d6ca91b5310010e0d4c4?_k=a7m179&quot;&gt;OpenAerialMap&lt;/a&gt;. New mapping projects have been created on the HOT Tasking manager. Due to the density of the area and presence of existing data, these projects are available to advanced mappers only.&lt;/p&gt;
+
+&lt;p&gt;The imagery has been shared with American Red Cross staff as well as partners and organizations working in Canaan to improve population estimates, plan DRR activities, and assist with community planning.&lt;/p&gt;</content><author><name>Matthew Gibb and Dan Joseph</name></author><category term="blog" /><category term="Haiti" /><category term="Canaan" /><category term="drones" /><category term="OpenDroneMap" /><summary type="html">Canaan, one of the most populated areas in Haiti, continues to evolve and grow. The American Red Cross recently covered 35 square kilometers of this area with new drone imagery to assist with population estimates, disaster preparedness programming, and updating OpenStreetMap.</summary></entry><entry xml:lang="en"><title type="html">Leaderboard 2.0</title><link href="/blog/2018/03/23/leaderboard-updates/" rel="alternate" type="text/html" title="Leaderboard 2.0" /><published>2018-03-23T00:00:00-04:00</published><updated>2018-03-23T00:00:00-04:00</updated><id>/blog/2018/03/23/leaderboard-updates</id><content type="html" xml:base="/blog/2018/03/23/leaderboard-updates/">&lt;h1 id=&quot;leaderboard-updates&quot;&gt;Leaderboard Updates&lt;/h1&gt;
+
+&lt;p&gt;When &lt;a href=&quot;https://www.missingmaps.org/&quot;&gt;Missing Maps&lt;/a&gt; started, it was impossible to imagine what it would ultimately become. The goal was to simply make more open map data available before disasters and to help the Humanitarian OpenStreetMap Team build more local mapping communities.&lt;/p&gt;
+
+&lt;p&gt;Early on we realized we needed better ways to quantify and track the impact of Missing Maps to OSM. Nearly 4 years later, we are making great progress on both of those fronts. Our efforts eventually produced the Missing Maps &lt;a href=&quot;https://missingmaps.org/leaderboards&quot;&gt;leaderboards&lt;/a&gt;, which sought to track individual users and teams.&lt;/p&gt;
+
+&lt;p&gt;The Missing Maps leaderboard technology is a streaming, real-time look at who is supporting our work. Initially funded by the &lt;a href=&quot;https://www.cisco.com/c/en/us/about/csr/impact/cisco-foundation.html&quot;&gt;Cisco Foundation&lt;/a&gt;, the leaderboards became a major way to engage and reward mappers. We were blown away when 4,000 mappers helped out on Missing Maps projects during the first year. Four years later, 52,000 mappers contributed to 1,200 mapping Missing Maps projects, the vast majority of those mappers were making their very first edits to OSM. In 2017, 10% of all new OSM mappers made their first edits in support of Missing Maps. The scale of tracking all these new users created problems for our system.&lt;/p&gt;
+
+&lt;p&gt;Thanks to a generous grant from &lt;a href=&quot;https://www.microsoft.com/en-us/philanthropies/&quot;&gt;Microsoft Philanthropies&lt;/a&gt;, &lt;a href=&quot;https://www.pacatlas.com/&quot;&gt;Pacific Atlas&lt;/a&gt; migrated the stack to Microsoft Azure, completed a full analysis backfill, and rewrote large chunks to enable things to scale better in the future without dropping edits. As always, all the code is open, including the &lt;a href=&quot;http://github.com/missingmaps&quot;&gt;leaderboard code&lt;/a&gt; and the &lt;a href=&quot;http://github.com/americanredcross/osm-stats&quot;&gt;osm-stats&lt;/a&gt; infrastructure. We are &lt;a href=&quot;https://github.com/missingmaps/missingmaps.github.io/issues&quot;&gt;always looking for help&lt;/a&gt; to create new badges or suggest new ideas.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Total Contributors&lt;/strong&gt;: We did a complete backfill of OSM history using &lt;a href=&quot;https://github.com/azavea/osmesa&quot;&gt;OSMesa&lt;/a&gt; to capture dropped edits and editors (and to update our calculations). You’ll notice that our number of total contributors is well over 52,000 now.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Total Edits&lt;/strong&gt;: The total number of edits has increased.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Building Edits&lt;/strong&gt;: This is a big change. In the past we we tracked &lt;em&gt;Buildings Added&lt;/em&gt; to OSM. After doing some reflection, this wasn’t a good representation of the total volume of edits Missing Maps contributes. Building Edits now reflects &lt;em&gt;both&lt;/em&gt; new additions and the contributions of our validators to clean up and coach new mappers.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Road Measurements&lt;/strong&gt;: We’ve got some egg on our face here. We fixed some math errors (briefly: edits were counting the full length) and we are now &lt;em&gt;correctly&lt;/em&gt; reporting the total km of roads added and edited.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/arcmaps/share/blog-pictures/mm_stats_new.jpg&quot; alt=&quot;Missing Maps Stats&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-new&quot;&gt;What’s New&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;New Data&lt;/strong&gt;: We now have data for &lt;strong&gt;all&lt;/strong&gt; changesets (previously we’d only been tracking &lt;code class=&quot;highlighter-rouge&quot;&gt;#hashtagged&lt;/code&gt; ones). This means that user profile pages now include &lt;strong&gt;all&lt;/strong&gt; edits made, rather than only those associated with hashtags. Users can still find their contribution to an individual hashtag by searching for the hashtag and user name in the leaderboards.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;More POIs&lt;/strong&gt;: Edits with &lt;code class=&quot;highlighter-rouge&quot;&gt;amenity=*&lt;/code&gt; were previously the only POIs accounted for; we’ve expanded the set of tags tracked to better match Missing Maps editing activity.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;New Leaders&lt;/strong&gt;: With the new data we’ve got some new leaders. I’m totally amazed at the commitment and dedication of Missing Maps mappers. From the first-time mapathon volunteer who manages to complete 40 buildings to the repeat mappers who make literally hundreds of thousands of edits.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;User Map&lt;/strong&gt;: We changed the way the user contribution map is showing. Instead of a heatmap, we now display a simple choropleth that breaks down contributions by country.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Badges&lt;/strong&gt;: We dropped support for the GPS Tracks Badge. We weren’t seeing a big uptick in new tracks added to OSM and this is already supported on the OSM user profiles.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slightly less real-time&lt;/strong&gt;: Due to the increased volume of data that we’re tracking, we had to reduce the aggregation frequency in order to keep things sprightly. Expect data to update approximately every 10-15 minutes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;OSM Stats API&lt;/strong&gt;: &lt;a href=&quot;https://github.com/AmericanRedCross/osm-stats/blob/master/documentation/API.md&quot;&gt;OSM Stats API&lt;/a&gt; now supports some additional queries and options, not all of which are documented yet but will be in the coming days.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;OSM Stats Workers&lt;/strong&gt;: &lt;a href=&quot;https://github.com/AmericanRedCross/osm-stats-workers&quot;&gt;OSM Stats Workers&lt;/a&gt; was almost completely rewritten; &lt;a href=&quot;https://github.com/AmericanRedCross/osm-stats-workers/tree/master/src/metrics&quot;&gt;metric calculations&lt;/a&gt; have been simplified and stream handling made more robust.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/arcmaps/share/blog-pictures/mm_leadboard_new.jpg&quot; alt=&quot;Missing Maps Leaderboards&quot; /&gt;&lt;/p&gt;</content><author><name>Dale Kunce</name></author><category term="blog" /><category term="Red Cross" /><category term="OpenStreetMap" /><category term="Leaderboards" /><summary type="html">Microsoft Philianthropies funds improvements to Missing Maps leaderboards.</summary></entry><entry xml:lang="en"><title type="html">$25,000 Grant to OpenStreetMap</title><link href="/blog/2017/12/11/osmf-grant/" rel="alternate" type="text/html" title="$25,000 Grant to OpenStreetMap" /><published>2017-12-11T00:00:00-05:00</published><updated>2017-12-11T00:00:00-05:00</updated><id>/blog/2017/12/11/osmf-grant</id><content type="html" xml:base="/blog/2017/12/11/osmf-grant/">&lt;h2 id=&quot;american-red-cross-grants-openstreetmap-25000&quot;&gt;American Red Cross grants OpenStreetMap $25,000&lt;/h2&gt;
+
+&lt;p&gt;American Red Cross is very excited to announce a USD $25,000 grant to OpenStreetMap Foundation for a hardware purchase to support the ongoing resilience of the OSM infrastructure. The funds were allocated towards the purchase and provisioning of a ‘hot’ backup database failover server – which has been purchased and is currently humming along doing its important job! This trail-blazing contribution will ensure that we can recover from site failures quickly and with the minimum amount of disruption for those editing the map. This is a big step forward in platform resiliency that we otherwise would not have been able to make at this time.&lt;/p&gt;
+
+&lt;p&gt;American Red Cross and OpenStreetMap&lt;/p&gt;
+
+&lt;p&gt;The American Red Cross has steadily ramped up our support for OpenStreetMap since our &lt;a href=&quot;http://www.redcross.org/news/article/New-Mapping-Technologies-for-the-Developing-World&quot;&gt;first mapathon in to map communities in Uganda in 2012&lt;/a&gt;. Identifying OSM as a source of up-to-date map data crucial to their international disaster field operations, we’ve quickly developed into a major contributor to OSM and support of the Humanitarian OpenStreetMap Team (HOT). Most recently through the Missing Maps initiative, to which around 10% of all OSM map contributions can now be attributed. The American Red Cross also supports OpenStreetMap through &lt;a href=&quot;http://posm.io&quot;&gt;app development&lt;/a&gt; and sponsorship of &lt;a href=&quot;http://sotm.us&quot;&gt;State of the Map&lt;/a&gt; conferences.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in the technical specifications of this &lt;a href=&quot;https://hardware.openstreetmap.org/servers/eddie.openstreetmap.org/&quot;&gt;new server&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We hope more organizations which use OSM data will be inspired to strengthen the OSMF infrastructure and support our great project! If you are interested in donating to the OpenStreetMap Foundation, please get email them at  board@osmfoundation.org.&lt;/p&gt;
+
+&lt;p&gt;About OpenStreetMap&lt;/p&gt;
+
+&lt;p&gt;The OpenStreetMap Foundation is a not-for-profit organization, formed in the UK to support the OpenStreetMap Project. It is dedicated to encouraging the growth, development and distribution of free geospatial data and to providing geospatial data for anyone to use and share. The OpenStreetMap Foundation owns and maintains the infrastructure of the OpenStreetMap project. You can support OpenStreetMap by becoming a member, donating or joining our volunteer Working Groups.&lt;/p&gt;
+
+&lt;p&gt;About the American Red Cross&lt;/p&gt;
+
+&lt;p&gt;The American Red Cross shelters, feeds and provides emotional support to victims of disasters in the US; teaches skills that save lives; provides international humanitarian aid; and supports military members and their families. In 2017 alone, the American Red Cross sent humanitarian aid to 26 countries to help save lives in the aftermath of disasters. The Red Cross is a not-for-profit organization that depends on volunteers and the generosity of the American public to perform its mission. Visit &lt;a href=&quot;http://redcross.org/international&quot;&gt;redcross.org/international&lt;/a&gt; of more information.&lt;/p&gt;</content><author><name>Dale Kunce</name></author><category term="blog" /><category term="Red Cross" /><category term="OpenStreetMap" /><category term="OpenStreetMap Foundation" /><summary type="html">American Red Cross grants $25,000 to OpenSteetMap to ensure the resilience during disasters.</summary></entry><entry xml:lang="en"><title type="html">Thank You! – GeoWeek 2017</title><link href="/blog/2017/12/08/TY_GW17/" rel="alternate" type="text/html" title="Thank You! – GeoWeek 2017" /><published>2017-12-08T00:00:00-05:00</published><updated>2017-12-08T00:00:00-05:00</updated><id>/blog/2017/12/08/TY_GW17</id><content type="html" xml:base="/blog/2017/12/08/TY_GW17/">&lt;h2 id=&quot;thank-you-geo-week-2017-was-a-huge-success&quot;&gt;Thank you! Geo-Week 2017 was a huge success!&lt;/h2&gt;
+
+&lt;p&gt;Hello Mappers,&lt;/p&gt;
+
+&lt;p&gt;Thank you for your incredible efforts organizing this year’s OSM GeoWeek! In total, we had 230 public events in 48 countries. We had almost 100 extra events this year and increased our country footprint by 6 countries. Together, we added 292,856 features, which is about double what we accomplished in 2016.  What amazing accomplishments! One of my favorite quotes comes from Geneva, where a participant checked in with her event organizer to let her know that she found that “Mapping was mesmerizing and relaxing” and had spent that next weekend practicing her new skill!&lt;/p&gt;
+
+&lt;p&gt;We would love to hear about your event to help make next year even bigger and better. If you have time, please fill out this &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScKG9bYHIcPdHSnT3Yf700LC0evzCqs-ihI5rkjaAopdcCMOg/viewform&quot;&gt;form&lt;/a&gt; to let us know what went well, what went poorly, and if you have any lessons you’d like to pass on to your fellow organizers. If you would like to share pictures, please add them with a short blurb to HOT’s Flickr located &lt;a href=&quot;https://www.flickr.com/groups/hotosm/pool/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s a great idea to follow-up with your participants (if you haven’t already). Here are some helpful reminders you can include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If possible, you can be a part of HOT’s 2018 Crowdfunding Campaign to #mapthedifference. Give any amount to &lt;a href=&quot;https://donate.hotosm.org&quot;&gt;HOT’s campaign&lt;/a&gt; - On the site, you can set up a personal Fundraising page to share with your mapathon networks and supporters.&lt;/li&gt;
+  &lt;li&gt;Sign up for the &lt;a href=&quot;http://eepurl.com/bC7JBj&quot;&gt;HOT Newsletter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sign up for &lt;a href=&quot;http://communicatoremail.com/F/QTwz9iBiyP0vavUEMRJ6SQ/&quot;&gt;Missing Maps emails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Follow us on Twitter at &lt;a href=&quot;https://twitter.com/hotosm&quot;&gt;@hotosm&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/TheMissingMaps&quot;&gt;@themissingmaps&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/youthmappers&quot;&gt;@youthmappers&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/mapgive&quot;&gt;@MapGive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Follow us on Facebook at &lt;a href=&quot;https://www.facebook.com/hotosm/&quot;&gt;https://www.facebook.com/hotosm/&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/MissingMapsProject/&quot;&gt;https://www.facebook.com/MissingMapsProject/&lt;/a&gt;, and &lt;a href=&quot;https://www.facebook.com/youthmappers/&quot;&gt;https://www.facebook.com/youthmappers/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;And of course, keep mapping at &lt;a href=&quot;tasks.hotosm.org&quot;&gt;tasks.hotosm.org&lt;/a&gt; and &lt;a href=&quot;http://www.openstreetmap.org&quot;&gt;openstreetmap.org&lt;/a&gt;!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Again, from all of us on the OSM GeoWeek organizing team, thank you so much for your planning, mapping, and continued support!&lt;/p&gt;
+
+&lt;p&gt;Thank you, 
+Rachel Levine
+American Red Cross - Missing Maps Coordinator&lt;/p&gt;</content><author><name>Rachel Levine</name></author><category term="blog" /><category term="geoweek" /><summary type="html">Thank you for your incredible efforts organizing this year's OSM GeoWeek!</summary></entry><entry xml:lang="en"><title type="html">OSM in West Africa: The Mapping Continues</title><link href="/blog/2017/11/07/wafrica_geoweek/" rel="alternate" type="text/html" title="OSM in West Africa: The Mapping Continues" /><published>2017-11-07T00:00:00-05:00</published><updated>2017-11-07T00:00:00-05:00</updated><id>/blog/2017/11/07/wafrica_geoweek</id><content type="html" xml:base="/blog/2017/11/07/wafrica_geoweek/">&lt;h2 id=&quot;osm-in-west-africa-the-mapping-continues&quot;&gt;OSM in West Africa: The Mapping Continues&lt;/h2&gt;
+
+&lt;p&gt;A year ago marked the end of the West Africa mapping project, where over 100 Red Cross volunteers in Liberia, Guinea, and Sierra Leone traveled to over 7,000 border communities to ensure that these vulnerable areas were “on the map” - creating open data in OpenStreetMap that can be used by responders if another epidemic like Ebola were to occur.&lt;/p&gt;
+
+&lt;p&gt;Although the Red Cross project has wrapped up, the OSM communities are growing in all three countries, and we’re excited to share updates about their activities and what they are planning for Geography Awareness Week this month!&lt;/p&gt;
+
+&lt;p&gt;Huge thanks to the OSM communities in these countries and especially to those who shared their updates for this post: Youssef Bamba, Tommy Godphery, Emmanuel Greene, David Luswata, Patrick Massaquoi, Emmanuel Myers, O’George Stephens, and Tino Toupane.&lt;/p&gt;
+
+&lt;h2 id=&quot;guinea&quot;&gt;Guinea&lt;/h2&gt;
+
+&lt;p&gt;OSM Guinea has grown to a big community of 233 members.&lt;/p&gt;
+
+&lt;p&gt;Since the end of the West Africa Mapping Project, the OSM community of Guinea organized 10 mapathons to focus on mapping in Conakry. OSM Guinea has also fully mapped the city of Dalaba in collaboration with a local Youth Mappers chapter.&lt;/p&gt;
+
+&lt;p&gt;The community also helped with mapping activities farther afield - helping to map in response to Hurricane Irma, the recent earthquake in Mexico, the Freetown landslides, World Malaria Day, and ongoing malaria activities in Zambia.&lt;/p&gt;
+
+&lt;p&gt;In addition to these contributions, OSM Guinea helped to create three Youth Mappers chapters in Guinea and one chapter at Fourah Bay College in Freetown. The community has also trained 73 students in mapping with QGIS and another 65 people in OSM editing tools.&lt;/p&gt;
+
+&lt;p&gt;For GeoWeek 2017, OSM Guinea has planned four mapathons in partnership with the Youth Mappers chapters of the universities of Dalaba, Sonfonia and N’Wéréloré.&lt;/p&gt;
+
+&lt;p&gt;For future activities, OSM Guinea is interested to map the rest of the city of Conakry and to start Youth Mappers chapters at Kankan University and Boke University. They are also looking for partners to support infrastructure and services mapping for Conakry, mapping of the Mount Nimba Biosphere Reserve, and computer upgrades.&lt;/p&gt;
+
+&lt;h2 id=&quot;liberia&quot;&gt;Liberia&lt;/h2&gt;
+
+&lt;p&gt;OSM Liberia has also been growing quickly, and recently reached 425 members. This includes the Liberia chapter of Youth Mappers, which is active in the region.&lt;/p&gt;
+
+&lt;p&gt;Over the past year, OSM Liberia was actively involved in a HOT project that trained and enabled volunteers to map their respective communities, roads, administrative boundaries, and other amenities in three cities of three counties in Liberia; Bong, Nimba and Grand Gedeh Counties. The volunteers were also involved with data cleaning and editing processes under the supervision of the HOT team.&lt;/p&gt;
+
+&lt;p&gt;For GeoWeek this year, OSM Liberia is working on bringing all of its cells from all regions of the country to host a grand mapathon event. This event will encompass diverse mapping activities which will last for a week.&lt;/p&gt;
+
+&lt;p&gt;OSM Liberia is also looking for new partners for activities for the upcoming year.&lt;/p&gt;
+
+&lt;h2 id=&quot;sierra-leone&quot;&gt;Sierra Leone&lt;/h2&gt;
+
+&lt;p&gt;The Sierra Leone OSM community is relatively new, but has had an exciting year. Fourah Bay College in Freetown launched a &lt;a href=&quot;http://www.youthmappers.org/&quot;&gt;Youth Mapper Chapter&lt;/a&gt; and the FBC students have continued to participate in mapping activities. Outside of Youth Mappers, the OSM Sierra Leone community has been growing and was represented at State of the Map Africa by Grace Kainessi and State of the Map Asia by Tommy Charles. This OSM community is working towards formal recognition as an independent organization and intends to file for legal registration with the government. Congrats to the OSM SL community for this exciting step!&lt;/p&gt;</content><author><name>David Luswata, Emily Eros, and local contributors</name></author><category term="blog" /><category term="geoweek" /><summary type="html">Mapping in West Africa continues, thanks to dedicated OSM communities in Liberia, Guinea, and Sierra Leone. Here's what they are planning for GeoWeek 2017.</summary></entry><entry xml:lang="en"><title type="html">Building capacity in the Caribbean</title><link href="/blog/2017/09/18/belize/" rel="alternate" type="text/html" title="Building capacity in the Caribbean" /><published>2017-09-18T00:00:00-04:00</published><updated>2017-09-18T00:00:00-04:00</updated><id>/blog/2017/09/18/belize</id><content type="html" xml:base="/blog/2017/09/18/belize/">&lt;h2 id=&quot;building-capacity-in-the-caribbean&quot;&gt;Building capacity in the Caribbean&lt;/h2&gt;
+
+&lt;p&gt;One of the exciting things about working with Red Cross mapping projects is that we endeavor to build the capacity of the community so that they can plan and lead field projects for themselves. The American Red Cross GIS team sometimes trains mappers ourselves, but we are excited to move more and more towards a model of empowering the local Red Cross and other institutions so that they understand the tools available for mapping, the process for designing fieldwork, and the workflow for cleaning and uploading data and conducting analysis.&lt;/p&gt;
+
+&lt;p&gt;Over the spring and summer, we led trainings in Jamaica and Belize that were intended to raise the capacity of local staff and partners.&lt;/p&gt;
+
+&lt;p&gt;In Belize, for example, we led a workshop with 18 participants from agencies with expertise in social services and emergency response, fire response, youth and MARP communities, mapping apps creator, and the national spatial data management division. Participants gained familiarity and skills for the main aspects of the Missing Maps approach:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Remote mapping&lt;/li&gt;
+  &lt;li&gt;Data collection in the field&lt;/li&gt;
+  &lt;li&gt;Understanding the ways the data can be used for decision-making&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170918_pic1.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Workshop participants in Belize, CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Participants appreciated learning about different ways to collect information and the accessibility. These included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Practical sessions which included going into the community and linking drawings to the satellite images by first starting with field papers by tagging with &lt;a href=&quot;www.openmapkit.org&quot;&gt;OMK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Exposure and tutorials on various open source applications (websites) and design and used for apps (&lt;a href=&quot;https://opendatakit.org/&quot;&gt;ODK&lt;/a&gt;, &lt;a href=&quot;www.openmapkit.org&quot;&gt;OMK&lt;/a&gt;, &lt;a href=&quot;http://osmand.net/&quot;&gt;OsmAnd&lt;/a&gt;, &lt;a href=&quot;www.posm.io&quot;&gt;POSM&lt;/a&gt;).&lt;/li&gt;
+  &lt;li&gt;Discussion and brainstorming of potential uses for other aspects of regional NS preparedness work (eg. VCAs) and emergency management in general&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The trainings took place both in the classroom and during field mapping practice in Belize City and Gungulung.&lt;/p&gt;
+
+&lt;p&gt;By participating in this workshop, participants improved their technical skills and also built stronger relationships with one another, which will hopefully enable productive conversations, support, and possibilities over time.&lt;/p&gt;</content><author><name>Ashley Schmeltzer</name></author><category term="blog" /><category term="POSM" /><summary type="html">This spring and summer, the American Red Cross led training-of-trainers in Belize and Jamaica to build the mapping skills and knowledge of local Red Cross and government staff - here's a quick update of our work.</summary></entry><entry xml:lang="en"><title type="html">IFRC joins Missing Maps</title><link href="/blog/2017/09/13/ifrc/" rel="alternate" type="text/html" title="IFRC joins Missing Maps" /><published>2017-09-13T00:00:00-04:00</published><updated>2017-09-13T00:00:00-04:00</updated><id>/blog/2017/09/13/ifrc</id><content type="html" xml:base="/blog/2017/09/13/ifrc/">&lt;p&gt;We are excited to welcome the newest member of the Missing Maps partnership: the International Federation of Red Cross and Red Crescent Societies (IFRC). For those who aren’t familiar, in informal terms, the IFRC is the umbrella organization that encompasses independent national Red Cross societies in 190 countries and helps to coordinate and support these national societies. This is a cross-post from the IFRC’s official announcement.&lt;/p&gt;
+
+&lt;h2 id=&quot;building-maps-is-building-trust&quot;&gt;Building Maps is Building Trust&lt;/h2&gt;
+
+&lt;p&gt;We are pleased to announce &lt;a href=&quot;http://www.ifrc.org/&quot;&gt;International Federation of the Red Cross Red Crescent Societies&lt;/a&gt; is joining the Missing Maps Partnership. Missing Maps is an open, collaborative project in which you can help to map areas where humanitarian organisations are trying to meet the needs of vulnerable people – creating open data that can be used for planning, awareness, and analysis. Over 33,000 people have contributed 33 million edits to &lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt; since Missing Maps was founded in 2014. These contributions have been used to support health interventions, emergency response, and resilience programs. Volunteers, organizations, and humanitarians collaborate in a number of ways: remote mapping, field mapping, and humanitarian activities.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170913_Missing-Maps-HOT-London-Event-photo-by-Harry-Wood-cc-by-sa-20.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Missing Maps (HOT) London Event, photo by Harry Wood, CC BY-SA&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Founded by the American Red Cross, British Red Cross, Médecins Sans Frontières, and Humanitarian OpenStreetMap Team, Missing Maps connects a global community of volunteers to humanitarian response. Other Movement members also include the Netherlands Red Cross and the Canadian Red Cross.  Some of the mapathon activities initiatives include mapping tasks in support of work of the &lt;a href=&quot;https://www.icrc.org/&quot;&gt;International Committee of the Red Cross (ICRC)&lt;/a&gt;, &lt;a href=&quot;http://www.nrcs.org/&quot;&gt;Nepal Red Cross Society&lt;/a&gt;, &lt;a href=&quot;http://www.trcs.or.tz/&quot;&gt;Tanzania Red Cross Society&lt;/a&gt; and &lt;a href=&quot;http://www.ifrc.org/en/what-we-do/where-we-work/africa/malawi-red-cross-society/&quot;&gt;Malawi Red Cross Society&lt;/a&gt;. Mapathons have been hosted by many national societies including &lt;a href=&quot;https://www.redcross.fi/&quot;&gt;Finnish Red Cross&lt;/a&gt;, &lt;a href=&quot;https://www.drk.de/en/&quot;&gt;German Red Cross&lt;/a&gt;, and &lt;a href=&quot;http://www.croix-rouge.lu/en/&quot;&gt;Luxembourg Red Cross&lt;/a&gt;. As we grow this program, we anticipate more collaboration across the Movement.&lt;/p&gt;
+
+&lt;p&gt;In addition to mapathons and remote activities, Missing Maps often involves field mapping with local Red Cross volunteers to add additional detail and context to the map. Previous field mapping activities (led by the American Red Cross) have supported measles vaccination monitoring in Malawi, the construction of a water pipeline in Zimbabwe, the identification of vulnerable border communities as part of Ebola recovery in West Africa, and the installation of fire sensors in an informal settlement in South Africa… to name a few. The scope of these projects varies from community-level mapping to larger-scale initiatives; in West Africa, volunteers visited 7,000 villages to collect information.&lt;/p&gt;
+
+&lt;p&gt;“Building Maps is building trust,” IFRC Under Secretary General, Jemilah Mahmood. Engaging local communities and volunteers with Missing Maps provides an opportunity to link our work to more volunteers, including youth and as well as technical audiences.&lt;/p&gt;
+
+&lt;p&gt;One of the first IFRC Missing Maps projects to be launched is pandemic preparedness partnership between IFRC Public Health Unit and the American Red Cross. The teams identified 9 countries where we will be taking a nationwide approach for nationwide data layers. We will likely create Missing Maps tasks for areas identified as vulnerable. This project drives at the core of the Missing Maps mission of creating open data for areas where humanitarian organisations are trying to meet the needs of vulnerable people.&lt;/p&gt;
+
+&lt;p&gt;There are active mapping tasks mapping tasks focused on current humanitarian needs. This includes response for &lt;a href=&quot;https://www.hotosm.org/updates/2017-09-09_hot_activates_for_three_disasters_hurricane_irma_mexico_earthquake_bangladesh&quot;&gt;Hurricane Irma, the Mexico earthquake and Bangladesh floods&lt;/a&gt;. Volunteering is at the heart of all that the Red Cross Red Crescent Movement activities. &lt;a href=&quot;https://nos.nl/op3/artikel/2191845-daniel-24-verleent-hulp-op-sint-maarten-vanuit-zijn-slaapkamer.html&quot;&gt;Hear one volunteer’s story on mapping for the Sint Maarten Hurricane Irma response.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mapping Nepal floods:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/O0PwZSpEhhc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;missing-maps-partnership-and-ifrc&quot;&gt;Missing Maps Partnership and IFRC&lt;/h2&gt;
+
+&lt;p&gt;The Missing Maps Partnership mission and goals directly align with our goals at IFRC.  This follows our path of “learn by doing” for data literacy skills.  As part of the Agenda for Humanity (Grand Bargain), the Missing Maps Partnership provides a concrete example of participatory engagement (local and global) by creating and sharing open data for humanitarian preparedness and response.  IFRC will facilitate the growth of Missing Maps activities in collaboration with the founding members and members.&lt;/p&gt;
+
+&lt;p&gt;IFRC’s contributions as a partner are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;National Society Engagement: Support and advocate National Society engagement for Missing Maps activities&lt;/li&gt;
+  &lt;li&gt;Improve Data Literacy:  Encourage Missing Maps projects as potential teaching mechanism for data literacy/data skills across the IFRC&lt;/li&gt;
+  &lt;li&gt;Mapping: Host mapathons and promote Mapping (remotely and locally).  Support for mapping activities (advice and tech support)&lt;/li&gt;
+  &lt;li&gt;Encourage Youth Engagement: Volunteering is at the core of the Red Cross/Red Crescent movement’s humanitarian efforts. There is a large potential to support volunteer, especially youth, engagement in the Missing Maps project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We excited to be collaborating with all the Missing Maps Partners and the wider OpenStreetMap community. Stay tuned for more activities. To get started, follow the Missing Maps blog, &lt;a href=&quot;https://twitter.com/themissingmaps&quot;&gt;twitter&lt;/a&gt; and &lt;a href=&quot;http://www.missingmaps.org/learn/#beginner&quot;&gt;take a tutorial today&lt;/a&gt;. If you are with a Red Cross Red Crescent society and want to learn more, please do &lt;a href=&quot;mailto:heather.leson@ifrc.org&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;</content><author><name>Heather Leson</name></author><category term="blog" /><category term="IFRC" /><summary type="html">We are excited to welcome the newest member of Missing Maps: the International Federation of Red Cross and Red Crescent Societies (IFRC). This is a cross-post from the IFRC's official announcement.</summary></entry><entry xml:lang="en"><title type="html">Join us for our first YouthMappers Video Challenge!</title><link href="/blog/2017/09/05/ym-video-challenge/" rel="alternate" type="text/html" title="Join us for our first YouthMappers Video Challenge!" /><published>2017-09-05T00:00:00-04:00</published><updated>2017-09-05T00:00:00-04:00</updated><id>/blog/2017/09/05/ym-video-challenge</id><content type="html" xml:base="/blog/2017/09/05/ym-video-challenge/">&lt;h2 id=&quot;first-youthmappers-video-challenge&quot;&gt;First YouthMappers Video Challenge!&lt;/h2&gt;
+
+&lt;p&gt;We are excited to announce our first ever YouthMappers Video Challenge!  Missing Maps recently surpassed 32,000 volunteers for the program worldwide, and as we continue to grow, we’d love for some of our experienced mapathon hosts to share their advice with some of our newer participants. With over 70 chapters worldwide, the YouthMappers network has quickly grown to include over 4,000 student mappers.  Share your success story with the community by submitting a video!&lt;/p&gt;
+
+&lt;h2 id=&quot;guidelines&quot;&gt;Guidelines:&lt;/h2&gt;
+
+&lt;p&gt;Please record your video in English, with subtitles in a second (or third!) language if you prefer.  Please keep your video to 5 minutes or less.  Remember that your audience is anyone who is thinking of hosting a mapathon, possibly for the first time, and looking for some encouragement, not just university students!&lt;/p&gt;
+
+&lt;h2 id=&quot;please-be-sure-to-cover-at-a-minimum-the-below-ideas-in-your-video&quot;&gt;Please be sure to cover (at a minimum) the below ideas in your video:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First tell us who you are by giving a brief intro to your group (don’t forget to mention you are a YouthMappers chapter!) &lt;/li&gt;
+  &lt;li&gt;Mapping software is not compatible with Internet Explorer (IE) (But Microsoft Edge is ok)  &lt;/li&gt;
+  &lt;li&gt;Make sure a bounding box shows up when using IdEditor, if it’s not there try refreshing the page &lt;/li&gt;
+  &lt;li&gt;Make sure the wifi at your event space is strong enough &lt;/li&gt;
+  &lt;li&gt;Make sure no local firewalls are blocking needed websites  &lt;/li&gt;
+  &lt;li&gt;Bring extension cords and mice if you have spares &lt;/li&gt;
+  &lt;li&gt;Using a mouse is preferred  &lt;/li&gt;
+  &lt;li&gt;Tablets are not compatible  &lt;/li&gt;
+  &lt;li&gt;Mention the &lt;a href=&quot;http://www.missingmaps.org/host/#helper-map-contents&quot;&gt;mapathon support map&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;Lastly, leave your viewers with encouraging parting words &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-submit&quot;&gt;How to Submit:&lt;/h2&gt;
+
+&lt;p&gt;Please title your video “Tips and Tricks for Hosting a Mapathon. By: Your College/Uni Name” and post it to YouTube. Next, please send an email with the link to rachel.levine@redcross.org with the name of your main point of contact by Friday November 3, 2017. If you need to provide acknowledgements or thank yous, you can include that as text in the description paragraph of your video in the YouTube upload.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps:&lt;/h2&gt;
+
+&lt;p&gt;Videos will be judged by a panel of Missing Maps partnership staff by Friday November 10, 2017 with a winner announced Monday November 13, 2017.  The winning video will be added to the Missing Maps &lt;a href=&quot;http://www.missingmaps.org/host/&quot;&gt;Hosting a Mapathon&lt;/a&gt; page and added to the Missing Maps &lt;a href=&quot;https://www.youtube.com/playlist?list=PLRNDLLd1ecy26kF1UguW5Ii7ozetEghax&quot;&gt;YouTube&lt;/a&gt;channel as well as linked to the YouthMappers channel.  The video will also be featured as a new resource in our outreach during &lt;a href=&quot;http://osmgeoweek.org/&quot;&gt;OSM GeoWeek&lt;/a&gt; and in the YouthMappers Resource Library (coming soon!)&lt;/p&gt;</content><author><name>Rachel Levine</name></author><category term="blog" /><category term="YouthMappers" /><summary type="html">Share your chapters' lessons learned with the wider Missing Maps community by filming a short 5 minute video on Tips and Tricks for Hosting a Mapathon.  Winning video will be featured on the Missing Maps website.</summary></entry><entry xml:lang="en"><title type="html">Stop the spots: Measles vaccinations in Malawi</title><link href="/blog/2017/08/10/malawi/" rel="alternate" type="text/html" title="Stop the spots: Measles vaccinations in Malawi" /><published>2017-08-10T00:00:00-04:00</published><updated>2017-08-10T00:00:00-04:00</updated><id>/blog/2017/08/10/malawi</id><content type="html" xml:base="/blog/2017/08/10/malawi/">&lt;h2 id=&quot;purpose&quot;&gt;Purpose&lt;/h2&gt;
+
+&lt;p&gt;If you grew up in North America or Europe, chances are good that measles isn’t something you’ve ever really had to think about. A measles vaccine was developed and introduced into the US in the 1960s (followed by combination vaccines like MMR); thanks in part to a strong vaccination program, &lt;a href=&quot;https://www.cdc.gov/measles/about/faqs.html&quot;&gt;public health officials declared&lt;/a&gt; that measles had been eliminated from the US in 2000.&lt;/p&gt;
+
+&lt;p&gt;For millions of people across Africa and Asia, however, the measles virus presents a very real threat. Measles is one of the most contagious diseases ever known and it is a leading cause of death among children – despite the existence of a safe and effective vaccine. In 2001, the American Red Cross helped to found the &lt;a href=&quot;http://measlesrubellainitiative.org/&quot;&gt;Measles &amp;amp; Rubella Initiative (M&amp;amp;RI)&lt;/a&gt; with a group of global partners. Through country-specific vaccination campaigns, M&amp;amp;RI has helped to vaccinate over 2 billion children and &lt;a href=&quot;http://www.redcross.org/about-us/our-work/international-services/measles-and-rubella-initiative&quot;&gt;prevented an estimated 20 million deaths&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More than 10 million people are still affected by measles each year. The American Red Cross is committed to supporting efforts to eliminate the disease.&lt;/p&gt;
+
+&lt;h2 id=&quot;malawi-campaign&quot;&gt;Malawi Campaign&lt;/h2&gt;
+
+&lt;p&gt;In June, the American Red Cross supported a measles and rubella immunization campaign in Malawi in partnership with the Malawi Ministry of Health, UNICEF, WHO, CDC, and other M&amp;amp;RI partners. This campaign acted as a supplementary activity to Malawi’s regular public health activities and was intended as a catch-up for children who may have missed their routine immunization. Over the course of one week, the Malawi Ministry of Health delivered vaccines to children around the country aged from 9 months up to 15 years – targeting approximately 8 million children.&lt;/p&gt;
+
+&lt;p&gt;To support this massive effort, the Red Cross assisted with social mobilization in five districts across the country: Lilongwe, Blantyre, Mangochi, Mzimba, and Zomba. Three thousand local Malawi Red Cross volunteers in these districts were trained on key messages and conducted roughly 100,000 house-to-house visits over three days. Volunteers ensured that the households heard about the campaign and provided an opportunity to ask questions about the vaccine and the campaign – providing an important avenue to address the concerns of those who might not otherwise have brought their children to be immunized.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170810_pic1.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Malawi Red Cross social mobilization volunteers in Lilongwe. CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As a special part of this campaign, the volunteers in some areas also collected information from caregivers about their young (12-23 months old) children’s routine immunization status – asking to see the child’s health passport and looking for a measles vaccination record or mark in  in his/her vaccination history. This information enables us to identify younger children have missed routine vaccinations; in the future this could help partners to follow up with those children in specific to ensure that they are reached by the health system.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170810_pic2.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Malawian health passport, in which parents record their child’s vaccinations. CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The American Red Cross also supported &lt;a href=&quot;http://measlesrubellainitiative.org/wp-content/uploads/2017/01/Evaluation-guidelines.pdf&quot;&gt;rapid convenience monitoring (RCM)&lt;/a&gt; during the vaccination campaign. The goal of RCM is to act as internal feedback during the campaign, to get a sense of whether the vaccination activities reached the target population, or if more efforts are needed. To do this, monitors visit vulnerable areas that were vaccinated the previous day and complete 15 house-to-house visits and 10 children in a public place to check whether all the children in those areas were vaccinated. If a certain target is not met, this tells health officials that they need to consider conducting additional vaccinations in that area. Timely information about the campaign allows the staff to act while activities are ongoing – meaning that there are still resources, staff, and supplies that can be mobilized.&lt;/p&gt;
+
+&lt;p&gt;The American Red Cross GIS team supported the M&amp;amp;RI field activities by introducing mobile data collection into the house-to-house social mobilization and RCM.&lt;/p&gt;
+
+&lt;h2 id=&quot;social-mobilization&quot;&gt;Social mobilization&lt;/h2&gt;
+
+&lt;p&gt;For the social mobilization, we provided mobile phones for 85 volunteers in Lilongwe (repurposed from the &lt;a href=&quot;http://www.missingmaps.org/blog/2017/01/24/west-africa-mapping-hub-end/&quot;&gt;West Africa project&lt;/a&gt; and trained them on the &lt;a href=&quot;https://opendatakit.org/&quot;&gt;OpenDataKit (ODK)&lt;/a&gt; Android app for data collection. Half of the time, these volunteers asked households the additional routine immunization questions. The other half of the time, the volunteers did not. This was randomly set within the ODK survey (link to download ODK survey template) and enabled us to compare the additional time required for the extra data collection, which will help the Red Cross determine whether or not the data collection can be done on a larger scale. We also had a group conducting this work on &lt;a href=&quot;https://arcmaps.s3.amazonaws.com/share/Malawi_paper_soc_mob_form.docx&quot;&gt;paper forms&lt;/a&gt; as a control group.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170810_pic3.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Prepping apps and settings on over 100 phones. CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Volunteers discussed the campaign with each household and then asked a series of questions about:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Name and contact phone number for the mother/caregiver&lt;/li&gt;
+  &lt;li&gt;Number of children in the household aged 9 months up to 15 years&lt;/li&gt;
+  &lt;li&gt;Number of children in the household, aged 12-23 months, with a health passport&lt;/li&gt;
+  &lt;li&gt;Number of children with health passport who have a measles vaccination marked in it&lt;/li&gt;
+  &lt;li&gt;Photo of immunization record in the health passport&lt;/li&gt;
+  &lt;li&gt;Whether the mother/caregiver was aware of the current measles campaign&lt;/li&gt;
+  &lt;li&gt;How she/he heard about the measles campaign&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When the caregiver did have a health passport for a child, the volunteer also took a photo of the immunization record in the passport. This enables a quality check of the data afterwards.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170810_pic4.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Social mobilization visit by a Malawi Red Cross volunteer in Lilongwe. CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;At the end of each day, we visited volunteers at central locations and collected their data using &lt;a href=&quot;http://posm.io/&quot;&gt;POSM (Portable OpenStreetMap)&lt;/a&gt;, an open-source offline server that enables mapping and data collection in offline environments. This negated the need for SIM card and data bundles and allowed us to review the data in an offline environment. Data were encrypted on the phones to protect the sensitive data, stored on the POSM servers, and were later downloaded and decrypted with a private key using &lt;a href=&quot;https://opendatakit.org/use/briefcase/&quot;&gt;ODK Briefcase&lt;/a&gt;. Over three days, the volunteers using mobile data collection visited roughly 8,000 households.&lt;/p&gt;
+
+&lt;h2 id=&quot;rcm-real-time-monitoring&quot;&gt;RCM: Real-time monitoring&lt;/h2&gt;
+
+&lt;p&gt;The GIS team also supported nationwide real-time monitoring for the RCM. As a collaboration with the Ministry of Health, we trained 58 Red Cross monitors and government health staff from across the country on OpenDataKit for RCM monitoring. These individuals supplied and used their own smartphones for the activities, and we reimbursed them with air credit for the data uploads. During the RCM, they collected and submitted the monitoring results, which fed into an interactive dashboard that displayed the results in real-time. Over the course of the week-long campaign, 73 monitors in 22 districts conducted 440 RCM sets – representing 13,743 children.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170810_pic5.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;A district health officer checks for a finger mark (indication of having received the measles vaccine) during RCM in a village in Nkhotakota. CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170810_pic6.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;RCM results fed into an interactive online dashboard, accessible for those working on the campaign. (Special thanks to the British Red Cross for assisting with dashboard development!) CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Each district had a daily meeting during the campaign to discuss daily activities. We sent the dashboard information ahead of time so that health officers would be aware of the website and could access the information. In the future, now that we have a smooth process for the technical side of this work, we would focus even more on building the local health staff’s awareness of the dashboard and their comfort in using it.&lt;/p&gt;
+
+&lt;h2 id=&quot;role-of-missing-maps&quot;&gt;Role of Missing Maps&lt;/h2&gt;
+
+&lt;p&gt;For important base map data, we relied on the contributions of over 3,000 Missing Maps volunteers, who traced nearly 400,000 buildings across Malawi, equating to the homes of roughly 1.7 people. This data played an important role in planning our fieldwork and the logistics required. Additionally, the base data in OpenStreetMap was the background layer in the nationwide RCM dashboard, and for all our analytics and data visualizations. Without the many volunteers who contributed, the data collected would have simply been points on a blank canvas. Many thanks to all who helped with tracing in Malawi!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170810_pic7.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;The paper map is not dead! Planning logistics and meet-up locations for social mobilization in Lilongwe. Map data from OpenStreetMap… made possible by Missing Maps volunteers. Thanks! CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170810_pic8.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;OpenStreetMap data with social mobilization locations overlaid. The detail and quality of mapping across Malawi gave us high-resolution to examine and display results for both the RCM and social mobilization activities. CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We are also grateful for Facebook’s &lt;a href=&quot;https://ciesin.columbia.edu/data/hrsl/&quot;&gt;high-resolution population data&lt;/a&gt; for Malawi, which helped us to identify areas with and without concentrations of people. This made the tracing much, much faster – we filtered uninhabited areas out of the tracing tasks so that we could direct remote mappers towards areas that had features for them to map.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
+
+&lt;p&gt;Now that we have returned from Malawi, we are conducting data analysis and investigating possible support activities for a future campaign. We are excited to continue working with M&amp;amp;RI and look forward to implementing the lessons learned in this pilot!&lt;/p&gt;
+
+&lt;p&gt;Beyond the mobile data collection activities, the GIS team is looking ahead to explore ways that we could use population and OSM data to inform logistical planning or population estimates for a vaccination campaign. We are eager to support as the Red Cross and the rest of the Measles &amp;amp; Rubella Initiative moves forward to combat measles and improve outcomes for children around the world.&lt;/p&gt;</content><author><name>Emily Eros, Ashley Schmeltzer</name></author><category term="blog" /><category term="POSM" /><summary type="html">Measles is one of the most contagious diseases ever known and it is a leading cause of death among children. In June, the American Red Cross supported a measles and rubella immunization campaign in Malawi that targeted nearly 8 million children.</summary></entry></feed>
